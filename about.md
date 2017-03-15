@@ -4,5 +4,4 @@ title: About
 
 ---
 
-# Some info 
-...about how cool you are ;)
+**--- 衣带渐宽终不悔，为伊消得人憔悴。---**
