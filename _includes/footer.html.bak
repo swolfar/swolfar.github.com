@@ -1,7 +1,7 @@
     <footer class="footer-distributed">
       <div class="container">
         <div class="footer">
-          <p>Achxku &copy; 2017-<script>(new Date()).getFullYear()</script></p>
+          <p>Achxku &copy; 2017-</p>
           {% include social.html %}
         </div>
       </div>
